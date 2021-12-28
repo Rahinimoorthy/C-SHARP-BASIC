@@ -1,0 +1,15 @@
+C:\PS Rahini\Learning Path\Number_guess\bin\Debug\net6.0\Number_guess.exe
+C:\PS Rahini\Learning Path\Number_guess\bin\Debug\net6.0\Number_guess.deps.json
+C:\PS Rahini\Learning Path\Number_guess\bin\Debug\net6.0\Number_guess.runtimeconfig.json
+C:\PS Rahini\Learning Path\Number_guess\bin\Debug\net6.0\Number_guess.dll
+C:\PS Rahini\Learning Path\Number_guess\bin\Debug\net6.0\ref\Number_guess.dll
+C:\PS Rahini\Learning Path\Number_guess\bin\Debug\net6.0\Number_guess.pdb
+C:\PS Rahini\Learning Path\Number_guess\obj\Debug\net6.0\Number_guess.csproj.AssemblyReference.cache
+C:\PS Rahini\Learning Path\Number_guess\obj\Debug\net6.0\Number_guess.GeneratedMSBuildEditorConfig.editorconfig
+C:\PS Rahini\Learning Path\Number_guess\obj\Debug\net6.0\Number_guess.AssemblyInfoInputs.cache
+C:\PS Rahini\Learning Path\Number_guess\obj\Debug\net6.0\Number_guess.AssemblyInfo.cs
+C:\PS Rahini\Learning Path\Number_guess\obj\Debug\net6.0\Number_guess.csproj.CoreCompileInputs.cache
+C:\PS Rahini\Learning Path\Number_guess\obj\Debug\net6.0\Number_guess.dll
+C:\PS Rahini\Learning Path\Number_guess\obj\Debug\net6.0\ref\Number_guess.dll
+C:\PS Rahini\Learning Path\Number_guess\obj\Debug\net6.0\Number_guess.pdb
+C:\PS Rahini\Learning Path\Number_guess\obj\Debug\net6.0\Number_guess.genruntimeconfig.cache
